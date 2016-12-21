@@ -1,0 +1,1042 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"imp",
+				"implements\tkeyword"
+			],
+			[
+				"tem",
+				"templateUrl\tproperty"
+			],
+			[
+				"se",
+				"selector\tproperty"
+			],
+			[
+				"po",
+				"providers\tproperty"
+			],
+			[
+				"user",
+				"userModel"
+			],
+			[
+				"send",
+				"sendRequest"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"u",
+				"userCtrl"
+			],
+			[
+				"da",
+				"datasets〔variable〕"
+			],
+			[
+				"l",
+				"labels〔variable〕"
+			],
+			[
+				"mon",
+				"monthlyreport"
+			],
+			[
+				"R",
+				"Routes\talias"
+			],
+			[
+				"cons",
+				"console\tvar"
+			],
+			[
+				"t",
+				"templateUrl\tproperty"
+			],
+			[
+				"s",
+				"styleUrls\tproperty"
+			],
+			[
+				"m",
+				"moduleId\tproperty"
+			],
+			[
+				"Rou",
+				"Router\talias"
+			],
+			[
+				"Hero",
+				"HeroDetailComponent\talias"
+			],
+			[
+				"h",
+				"hero\tproperty"
+			],
+			[
+				"get",
+				"getHeros\tmethod"
+			],
+			[
+				"im",
+				"import\timports a module …"
+			],
+			[
+				"pri",
+				"private\tkeyword"
+			],
+			[
+				"p",
+				"providers\tproperty"
+			],
+			[
+				"for",
+				"forRoot\tmethod"
+			],
+			[
+				"ba",
+				"base\tTag"
+			],
+			[
+				"white",
+				"white-space: 〔property〕"
+			],
+			[
+				"ov",
+				"overflow-wrap"
+			],
+			[
+				"d",
+				"no-display〔value〕"
+			],
+			[
+				"btn",
+				"btn \tBootstrap 3 Class"
+			],
+			[
+				"sc",
+				"scrollTop〔function〕"
+			],
+			[
+				"ex",
+				"export\tkeyword"
+			],
+			[
+				"Com",
+				"Component\talias"
+			],
+			[
+				"$sc",
+				"$scope\tAngularJS"
+			],
+			[
+				"cop",
+				"copyToClipboard"
+			],
+			[
+				"ng-cl",
+				"ng-click\tAngularJS"
+			],
+			[
+				"ng-v",
+				"ng-value\tAngularJS"
+			],
+			[
+				"mo",
+				"module"
+			],
+			[
+				"pu",
+				"pull-left \tBootstrap 3 Class"
+			],
+			[
+				"inl",
+				"inline-block〔value〕"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"json",
+				"jsonObj"
+			],
+			[
+				"label-d",
+				"label-danger \tBootstrap 3 Class"
+			],
+			[
+				"lis",
+				"list-group-item"
+			],
+			[
+				"scope",
+				"$scope\tAngularJS"
+			],
+			[
+				"scop",
+				"$scope\tAngularJS"
+			],
+			[
+				"con",
+				"controller\tAngularJS"
+			],
+			[
+				"admin",
+				"adminApp"
+			],
+			[
+				"st",
+				"stateProvider"
+			],
+			[
+				"app",
+				"app_admin2"
+			],
+			[
+				"a",
+				"adminApp"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"Ge",
+				"GetSummary〔function〕"
+			],
+			[
+				"su",
+				"summary〔variable〕"
+			],
+			[
+				"v_m",
+				"v_min"
+			],
+			[
+				"all",
+				"allData〔variable〕"
+			],
+			[
+				"aut",
+				"authenticator〔variable〕"
+			],
+			[
+				"par",
+				"parsedURL〔variable〕"
+			],
+			[
+				"insert",
+				"insertResource〔function〕"
+			],
+			[
+				"inser",
+				"insertResource〔function〕"
+			],
+			[
+				"doc",
+				"documents〔argument〕"
+			],
+			[
+				"k",
+				"keyList"
+			],
+			[
+				"err",
+				"err_msg〔variable〕"
+			],
+			[
+				"em",
+				"emp1"
+			],
+			[
+				"Per",
+				"Person2"
+			],
+			[
+				"B",
+				"BnException"
+			],
+			[
+				"dis",
+				"displayCount"
+			],
+			[
+				"e",
+				"empCount"
+			],
+			[
+				"sub",
+				"SublimeREPL"
+			],
+			[
+				"test",
+				"testPassValue"
+			],
+			[
+				"raw",
+				"raw_ref"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"ind",
+				"feildIndex"
+			],
+			[
+				"rem",
+				"removeAll"
+			],
+			[
+				"mov",
+				"moveDown"
+			],
+			[
+				"move",
+				"moveUp"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"new",
+				"newFeild"
+			],
+			[
+				"show",
+				"showError"
+			],
+			[
+				"dyf",
+				"dyFormHeader"
+			],
+			[
+				"dy",
+				"dyFormFields"
+			],
+			[
+				"ob",
+				"observable"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"repe",
+				"repeatValue"
+			],
+			[
+				"sele",
+				"selected_radio"
+			],
+			[
+				"end",
+				"endDate"
+			],
+			[
+				"ini",
+				"initUI"
+			],
+			[
+				"obs",
+				"observableArray"
+			],
+			[
+				"comp",
+				"computed"
+			],
+			[
+				"c",
+				"clip"
+			],
+			[
+				"the",
+				"thenEvaluate"
+			],
+			[
+				"ca",
+				"capture"
+			],
+			[
+				"bn",
+				"bnUtils"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"cel",
+				"cellValue"
+			],
+			[
+				"rec",
+				"ReadCell"
+			],
+			[
+				"loa",
+				"sheetLoader"
+			],
+			[
+				"wor",
+				"workSheet"
+			],
+			[
+				"sh",
+				"sheetloader"
+			],
+			[
+				"shee",
+				"sheetName"
+			],
+			[
+				"ma",
+				"maxLength"
+			],
+			[
+				"Map",
+				"MapToJS"
+			],
+			[
+				"to",
+				"ToJS"
+			],
+			[
+				"ge",
+				"getTime"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Work/global-clims-4.0.8/Integration/DataIntegration/GWZ.Integration.DataSync/App.config",
+			"settings":
+			{
+				"buffer_size": 19581,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sijian.gu/Desktop/InternalUI_11.09.2016.log",
+			"settings":
+			{
+				"buffer_size": 3596929,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Work/test/study/NodeJS/material2/GETTING_STARTED.md",
+			"settings":
+			{
+				"buffer_size": 1835,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pis",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"tag",
+				"Snippet: Long Tag"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"seja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rjs",
+				"Snippet: rjshello"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"quite()",
+			"quit()",
+			"quit（）",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Work/test/study/NodeJS/bnapp/app_admin",
+		"/C/Work/test/study/NodeJS/bnapp/app_admin/js",
+		"/C/Work/test/study/NodeJS/bnapp/app_api/controllers",
+		"/C/Work/test/study/NodeJS/bnapp2/app",
+		"/C/Work/test/study/NodeJS/material2",
+		"/C/Work/test/study/NodeJS/material2/src"
+	],
+	"file_history":
+	[
+		"//GWAZUPROweb03/Log/InternalUI_11.09.2016.log",
+		"/C/Work/test/study/NodeJS/bnapp2/app/clims/clims-routing.module.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/app-routing.module.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/clims/clims.module.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/app.component.html",
+		"/C/Work/test/study/NodeJS/bnapp2/app/clims/monitor/monitor.component.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/clims/shared/clims.service.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/clims/monitor/monitor.component.html",
+		"/C/Users/sijian.gu/Desktop/UpdateJapanSignature.sql",
+		"/C/Work/test/study/NodeJS/bnapp2/app/contact/contact.module.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/app.module.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/contact/contact.component.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/contact/contact.module.js",
+		"/C/Work/test/study/NodeJS/bnapp2/package.json",
+		"/C/Work/test/study/NodeJS/bnapp2/app/app.component.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/app.module.js",
+		"/C/Work/test/study/NodeJS/bnapp2/app/core/user.service.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/core/core.module.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/shared/highlight.directive.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/shared/hight.directive.js.map",
+		"/C/Work/global-clims-4.0.8/GWZ.CLIMS/GWZ.CLIMS.Business.Internal/GALab/RerunBusiness.cs",
+		"/C/Work/test/study/NodeJS/bnapp2/npm-debug.log",
+		"/C/Work/test/study/NodeJS/bnapp2/app/shared/shared.m.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/shared/hight.directive.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/shared/awesome.pipe.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/contact/contact.service.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/contact/contact.component.html",
+		"/C/Work/test/study/NodeJS/bnapp2/app/contact/contact.component.css",
+		"/C/Work/test/study/NodeJS/bnapp2/app/contact/contact-routing.module.ts",
+		"/C/Work/test/study/NodeJS/bnapp/app_admin2/monitor/monthlyreport.js",
+		"/C/Users/sijian.gu/Desktop/pGem-CP1-2004851_E05.seq",
+		"//GWAZUPROweb03a/Log/CustomerUI_11.03.2016.log.5",
+		"//GWAZUPROweb03a/Log/InternalUI_11.04.2016.log",
+		"/C/Users/sijian.gu/Desktop/log/b/CustomerUI_11.03.2016.log.2",
+		"/C/Users/sijian.gu/Desktop/log/a/CustomerUI_11.03.2016.log.5",
+		"/C/Work/test/study/NodeJS/bnapp2/app/app-routing.module.js.map",
+		"/C/Work/test/study/NodeJS/bnapp2/systemjs.config.js",
+		"/C/Work/test/study/NodeJS/bnapp2/main.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/shared/text-filter.component.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/shared/text-filter.service.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/shared/init-caps.pipe.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/heroes/shared/hero.service.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/heroes/shared/hero.model.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/core/exception.service.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/core/user-profile.service.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/shared/share.m.js",
+		"/C/Work/test/study/NodeJS/bnapp2/app/projects/clims.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/app.html",
+		"/C/Users/sijian.gu/Desktop/phpwechat.conf",
+		"/C/Work/test/study/NodeJS/bnapp2/index.html",
+		"/C/Work/test/study/NodeJS/bnserver/app_api/models/project.js",
+		"/C/Users/sijian.gu/Desktop/default.template",
+		"/C/Users/sijian.gu/Desktop/nginx.conf",
+		"/C/Users/sijian.gu/Desktop/site2.conf",
+		"/C/Users/sijian.gu/Desktop/site3_node.conf",
+		"/C/Users/sijian.gu/Desktop/site1.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Work/test/study/NodeJS/bnserver/.env",
+		"/C/Work/test/study/NodeJS/bnserver/test/apitest.html",
+		"/C/Work/test/study/NodeJS/bnapp2/app/services/clims.s.ts",
+		"/C/Work/test/study/NodeJS/bnserver/app_api/controllers/authentication.js",
+		"/C/Work/test/study/NodeJS/bnserver/app_api/controllers/synclog.js",
+		"/C/Work/test/study/NodeJS/bnserver/app_api/routes/index.js",
+		"/C/Work/test/study/NodeJS/bnserver/app.js",
+		"/C/Work/test/study/NodeJS/bnserver/app_api/config/token_manager.js",
+		"/C/Work/test/study/NodeJS/bnserver/app_api/config/mongo_db.js",
+		"/C/Work/test/study/NodeJS/bnserver/app_api/models/index.js",
+		"/C/Work/test/study/NodeJS/bnserver/app_api/models/user.js",
+		"/C/Work/test/study/NodeJS/bnserver/app_api/config/sql_db.js",
+		"/C/Work/test/study/NodeJS/bnserver/app_api/config/passport.js",
+		"/C/Work/test/study/NodeJS/bnserver/package.json",
+		"/C/Work/global-clims-4cn/Integration/DataIntegration/GWZ.Integration.Enricher/Enricher/Invoice4CN.xml",
+		"/C/Users/sijian.gu/Desktop/xxxx.xml",
+		"/C/Work/test/study/NodeJS/bnserver/app_api/config/redis_db.js",
+		"/C/Work/global-clims-4cn/Integration/DataIntegration/GWZ.Integration.Transformer/Transformer/Invoice4CN.xslt",
+		"/C/Work/test/study/NodeJS/bnserver/node_modules/passport/lib/authenticator.js",
+		"/C/Work/test/study/NodeJS/bnserver/app_api/models/db.js",
+		"/C/Work/test/study/NodeJS/bnserver/app_api/models/sqldb.js",
+		"/C/Work/test/study/NodeJS/bnserver/bin/www",
+		"/F/test/Nginx/MEAN/loc8r/app_api/controllers/authentication.js",
+		"/C/Users/sijian.gu/Desktop/2016-10-14_1_1801035/CustomerUI_10.27.2016.log.7",
+		"/C/Users/sijian.gu/Desktop/2016-10-14_1_1801035/CustomerUI_10.27.2016.log.8",
+		"/C/Work/test/study/NodeJS/bnapp/app_admin2/monitor/monthlyreport.html",
+		"/C/Work/test/study/NodeJS/bnapp/app_api/controllers/synclog.js",
+		"/C/Work/test/study/NodeJS/bnapp/app_admin2/monitor/syncsolution.js",
+		"/C/Work/test/study/NodeJS/bnapp/app_admin2/monitor/monitordashboard.js",
+		"/C/Work/test/study/NodeJS/bnapp/app_admin/js/controllers.js",
+		"/C/Users/sijian.gu/Desktop/loadprepay/loadprey_r1.txt",
+		"/C/Users/sijian.gu/Desktop/loadprepay/CustomerUI_10.28.2016.log",
+		"/C/Work/Doc_US/TS/loadprepay/LoadPrepay.sql",
+		"/C/Work/global-clims-4cn/GWZ.Core/GWZ.Core.UIFramework/ClientInjector/ClientInterceptor.cs",
+		"/C/Work/test/study/NodeJS/bnapp/app_admin2/monitor/monitordashboard.html",
+		"/C/Work/test/study/NodeJS/bnapp/app_admin/index.html",
+		"/C/Work/test/study/html/bnCalendar/index.html",
+		"/C/Work/Doc_US/TS/CreateUserInCLIMS4/bnCalendar/index.html",
+		"/C/Users/sijian.gu/Desktop/CustomerUI_10.28.2016.log",
+		"//GWAZUPROweb03/Log/CustomerUI_10.28.2016.log",
+		"/C/Work/test/study/NodeJS/bnapp/app_admin2/indexxx.html",
+		"/C/Work/global-clims-4cn/GWZ.Core/GWZ.Core.Entities/Configuration/GeneralConfig.cs",
+		"/E/test/DecryptPassword/ConsoleApplication1/Program.cs",
+		"/C/Work/global-clims-4cn/GWZ.Core/GWZ.Core.Configuration/CommonConfigFactory.cs",
+		"/C/Work/global-clims-4cn/GWZ.Core/GWZ.Core.Entities/Configuration/USGeneralConfig .cs",
+		"/C/Work/global-clims-4cn/GWZ.Core/GWZ.Core.Configuration/CLIMSSettingsSection.cs",
+		"/C/Work/test/study/NodeJS/bnapp/app_server/views/layout_admin.jade",
+		"/C/Work/test/study/NodeJS/bnapp/app_admin/css/style.css",
+		"/C/Work/test/study/NodeJS/bnapp/app_admin/indexx.html",
+		"/C/Work/test/study/NodeJS/bnapp/app_admin2/adminApp.js",
+		"/C/Work/test/study/NodeJS/bnapp/app_admin2/adminApp.min.js",
+		"//gw111vm01/group_111/IT/GENEWZ Release Process/CLIMS4/US/4.0.8/4.0.8 P4/DB_Scripts/SJ-GCF-5645 NewUSReportPermission.sql",
+		"/C/Work/test/study/NodeJS/bnapp2/app/modules/share/share.m.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/modules/bn-chart/bn-chart.m.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/services/hero.s.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/components/hero-detail.html",
+		"/C/Work/test/study/NodeJS/bnapp2/app/components/hero-detail.c.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/components/hero-list.css",
+		"/C/Work/test/study/NodeJS/bnapp2/app/components/hero-list.html",
+		"/C/Work/test/study/NodeJS/bnapp2/app/components/hero-list.c.ts",
+		"/C/Users/sijian.gu/Documents/IISExpress/config/applicationhost.config",
+		"/C/Program Files/IIS Express/config/administration.config",
+		"/C/Work/test/study/NodeJS/bnapp2/app/components/dashboard.html",
+		"/C/Work/test/study/NodeJS/bnapp2/app/components/dashboard.c.ts",
+		"/C/Work/test/study/NodeJS/bnapp2/app/main.js",
+		"/C/Work/global-clims-4cn/ScheduledTask/GWZ.ScheduledTask.ResultFiles/bin/Release/ResultFiles.exe.config",
+		"/C/Work/global-clims-4cn/ScheduledTask/GWZ.ScheduledTask.ResultFiles/ResultFiles.build",
+		"/C/Work/global-clims-4cn/ScheduledTask/GWZ.ScheduledTask.ResultFiles/ResultFiles.cs",
+		"/C/Work/test/study/NodeJS/bnapp2/app/rxjs-extensions.ts",
+		"//gw111vm01/group_111/IT/GENEWZ Release Process/CLIMS4/US/4.0.8/4.0.8 P4/CLIMS4_ReleaseScript.ps1",
+		"/C/Work/global-clims-4cn/GWZ.CLIMS/GWZ.CLIMS.Business.Common/Pricing/DNAPrepPriceBusiness.cs"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Work\\test\\ios\\Coding-iOS-master"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"qianqian",
+			"AddPaymentInfoForRepeatOrder",
+			"SharedModule",
+			"AACCGTAAAAA",
+			"stacktrace",
+			"Li.Zhao01@genewiz.com",
+			"PublishSystemMailNotice",
+			"fastcgi",
+			"date",
+			").",
+			"WorkingSite:",
+			"WorkingSite: 0",
+			"WorkingSite:0",
+			"error",
+			"(1 row(s) affected)",
+			"Object reference not set to an instance of an object.",
+			"this.",
+			"chartJsCtrl",
+			"google",
+			"chartistCtrl",
+			"this.scale=",
+			"chartistCtrl",
+			"',\n",
+			"chartistCtrl",
+			"post",
+			"SendEmailForConfirmationBJ",
+			"#gwzGALibraryPrimerSelect option:selected",
+			".replace(/[ ,\\n]/g",
+			"]/g",
+			"iboxTools",
+			"s",
+			">\n",
+			"clip",
+			"lipboard",
+			"ngclipboard",
+			"toCli",
+			"copyCnblogsCode",
+			"}\n",
+			">\n",
+			"chartJsCtrl",
+			"translateCtrl",
+			"pageTitle",
+			"responsiveVideo",
+			"minimalizaSidebar",
+			"ng-areq",
+			"dashboardFlotOne",
+			"modelOptions",
+			"location",
+			"min",
+			"'loc8r-token'",
+			"main",
+			"sideNavigation",
+			"('img/",
+			"cover",
+			"team",
+			"'../img/",
+			"cover",
+			"='fonts/",
+			"href='fonts/",
+			"='js/",
+			"='img/",
+			"='css/",
+			"provinces",
+			"\",\"",
+			"updatePriceLevel",
+			"{\n",
+			"test@01",
+			"save_excel",
+			"read_page",
+			"read_max_page",
+			"totalPageCount",
+			"sijian",
+			"jingjuan",
+			"role",
+			"Role",
+			"1 re",
+			"AuthorizePermission",
+			"xmlrpc",
+			");",
+			"GetSampleDetailsWithPlate",
+			"datetimepicker",
+			"Processed:1",
+			"LoadSequenceAnalysis",
+			"InvoiceItem",
+			"menuinst",
+			".table-b",
+			"data-val-",
+			"ServiceURL=\"/NGSForm/UpdateView\"",
+			"ActionType=\"Update\"",
+			"PictureId2",
+			"image",
+			"image2",
+			"LinkWithPICN",
+			"btnName",
+			"newOption",
+			"formDescription",
+			"delete",
+			"\");\n",
+			"deferred",
+			"get(",
+			"ultils",
+			"fonts.googleapis.com",
+			"https://fonts.googleapis.com/css?family",
+			"https://fonts.googleapis.com/css?family=Roboto:400,300,500,700",
+			"Sequence contains more than one element",
+			"getCompletedOrderRersults",
+			"init",
+			"import",
+			"\" ",
+			"][",
+			"0",
+			"10",
+			"9",
+			"8",
+			"7",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"cityArray[",
+			");",
+			" = new Array(",
+			");",
+			" = new Array",
+			" new Array(",
+			".controls"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"$scope.",
+			"token_key",
+			"('plugin/cardio/img/",
+			"'plugin/cardio/img/",
+			"'plugin/cardio/fonts/",
+			"='plugin/cardio/fonts/",
+			"='plugin/cardio/js/",
+			"='plugin/cardio/img/",
+			"='plugin/cardio/css/",
+			"\"~\"",
+			"f",
+			"Function",
+			"ServiceURL=\"/OrderReceipt/SingleOrderShell\"",
+			"ActionType=\"Receipt\"",
+			"[",
+			"",
+			"],",
+			"]",
+			"[",
+			"]",
+			"[",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Work/global-clims-4.0.8/Integration/DataIntegration/GWZ.Integration.DataSync/App.config",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4142,
+								3805
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/sijian.gu/Desktop/InternalUI_11.09.2016.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3596929,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3517907,
+								3517184
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 570613.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Work/test/study/NodeJS/material2/GETTING_STARTED.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1835,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								347,
+								311
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 342.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "python_test.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

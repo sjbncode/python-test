@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{07ba9356-13d8-4eb1-ae08-0cd6a60299fd}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>bnUtils\db.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+    <InterpreterVersion />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+    <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="bnUtils\db.py" />
+    <Compile Include="bnUtils\log.py" />
+    <Compile Include="bnUtils\support.py" />
+    <Compile Include="bnUtils\__init__.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\builder\_html5lib.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\builder\_htmlparser.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\builder\_lxml.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\builder\__init__.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\dammit.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\diagnose.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\element.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\testing.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\tests\test_builder_registry.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\tests\test_docs.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\tests\test_html5lib.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\tests\test_htmlparser.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\tests\test_lxml.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\tests\test_soup.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\tests\test_tree.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\tests\__init__.py" />
+    <Compile Include="downloads\beautifulsoup\bs4\__init__.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\builder\_html5lib.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\builder\_htmlparser.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\builder\_lxml.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\builder\__init__.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\dammit.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\diagnose.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\element.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\testing.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\tests\test_builder_registry.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\tests\test_docs.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\tests\test_html5lib.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\tests\test_htmlparser.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\tests\test_lxml.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\tests\test_soup.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\tests\test_tree.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\tests\__init__.py" />
+    <Compile Include="downloads\beautifulsoup\build\lib\bs4\__init__.py" />
+    <Compile Include="downloads\beautifulsoup\doc.zh\source\conf.py" />
+    <Compile Include="downloads\beautifulsoup\doc\source\conf.py" />
+    <Compile Include="downloads\beautifulsoup\scripts\demonstrate_parser_differences.py" />
+    <Compile Include="downloads\beautifulsoup\setup.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\app.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\chart.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\chartsheet.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\chart_area.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\chart_bar.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\chart_column.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\chart_doughnut.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\chart_line.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\chart_pie.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\chart_radar.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\chart_scatter.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\chart_stock.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\comments.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\compatibility.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\compat_collections.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\contenttypes.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\core.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\custom.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\drawing.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\format.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\packager.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\relationships.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\shape.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\sharedstrings.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\styles.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\table.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\theme.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\utility.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\vml.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\workbook.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\worksheet.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\xmlwriter.py" />
+    <Compile Include="downloads\XlsxWriter\build\lib\xlsxwriter\__init__.py" />
+    <Compile Include="downloads\XlsxWriter\build\scripts-3.5\vba_extract.py" />
+    <Compile Include="downloads\XlsxWriter\examples\array_formula.py" />
+    <Compile Include="downloads\XlsxWriter\examples\autofilter.py" />
+    <Compile Include="downloads\XlsxWriter\examples\cell_indentation.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chartsheet.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_area.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_bar.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_clustered.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_column.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_combined.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_data_table.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_data_tools.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_date_axis.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_doughnut.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_gradient.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_line.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_pareto.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_pattern.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_pie.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_radar.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_scatter.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_secondary_axis.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_stock.py" />
+    <Compile Include="downloads\XlsxWriter\examples\chart_styles.py" />
+    <Compile Include="downloads\XlsxWriter\examples\comments1.py" />
+    <Compile Include="downloads\XlsxWriter\examples\comments2.py" />
+    <Compile Include="downloads\XlsxWriter\examples\conditional_format.py" />
+    <Compile Include="downloads\XlsxWriter\examples\context_manager.py" />
+    <Compile Include="downloads\XlsxWriter\examples\data_validate.py" />
+    <Compile Include="downloads\XlsxWriter\examples\datetimes.py" />
+    <Compile Include="downloads\XlsxWriter\examples\defined_name.py" />
+    <Compile Include="downloads\XlsxWriter\examples\demo.py" />
+    <Compile Include="downloads\XlsxWriter\examples\diagonal_border.py" />
+    <Compile Include="downloads\XlsxWriter\examples\doc_properties.py" />
+    <Compile Include="downloads\XlsxWriter\examples\headers_footers.py" />
+    <Compile Include="downloads\XlsxWriter\examples\hello_world.py" />
+    <Compile Include="downloads\XlsxWriter\examples\hide_row_col.py" />
+    <Compile Include="downloads\XlsxWriter\examples\hide_sheet.py" />
+    <Compile Include="downloads\XlsxWriter\examples\http_server_py2.py" />
+    <Compile Include="downloads\XlsxWriter\examples\http_server_py3.py" />
+    <Compile Include="downloads\XlsxWriter\examples\hyperlink.py" />
+    <Compile Include="downloads\XlsxWriter\examples\images.py" />
+    <Compile Include="downloads\XlsxWriter\examples\images_bytesio.py" />
+    <Compile Include="downloads\XlsxWriter\examples\macros.py" />
+    <Compile Include="downloads\XlsxWriter\examples\merge1.py" />
+    <Compile Include="downloads\XlsxWriter\examples\merge_rich_string.py" />
+    <Compile Include="downloads\XlsxWriter\examples\outline.py" />
+    <Compile Include="downloads\XlsxWriter\examples\outline_collapsed.py" />
+    <Compile Include="downloads\XlsxWriter\examples\pandas_chart.py" />
+    <Compile Include="downloads\XlsxWriter\examples\pandas_chart_columns.py" />
+    <Compile Include="downloads\XlsxWriter\examples\pandas_chart_line.py" />
+    <Compile Include="downloads\XlsxWriter\examples\pandas_chart_stock.py" />
+    <Compile Include="downloads\XlsxWriter\examples\pandas_column_formats.py" />
+    <Compile Include="downloads\XlsxWriter\examples\pandas_conditional_format.py" />
+    <Compile Include="downloads\XlsxWriter\examples\pandas_datetime.py" />
+    <Compile Include="downloads\XlsxWriter\examples\pandas_multiple.py" />
+    <Compile Include="downloads\XlsxWriter\examples\pandas_positioning.py" />
+    <Compile Include="downloads\XlsxWriter\examples\pandas_simple.py" />
+    <Compile Include="downloads\XlsxWriter\examples\panes.py" />
+    <Compile Include="downloads\XlsxWriter\examples\rich_strings.py" />
+    <Compile Include="downloads\XlsxWriter\examples\right_to_left.py" />
+    <Compile Include="downloads\XlsxWriter\examples\sparklines1.py" />
+    <Compile Include="downloads\XlsxWriter\examples\sparklines2.py" />
+    <Compile Include="downloads\XlsxWriter\examples\tables.py" />
+    <Compile Include="downloads\XlsxWriter\examples\tab_colors.py" />
+    <Compile Include="downloads\XlsxWriter\examples\textbox.py" />
+    <Compile Include="downloads\XlsxWriter\examples\text_indent.py" />
+    <Compile Include="downloads\XlsxWriter\examples\tutorial1.py" />
+    <Compile Include="downloads\XlsxWriter\examples\tutorial2.py" />
+    <Compile Include="downloads\XlsxWriter\examples\tutorial3.py" />
+    <Compile Include="downloads\XlsxWriter\examples\unicode_polish_utf8.py" />
+    <Compile Include="downloads\XlsxWriter\examples\unicode_python2.py" />
+    <Compile Include="downloads\XlsxWriter\examples\unicode_python3.py" />
+    <Compile Include="downloads\XlsxWriter\examples\unicode_shift_jis.py" />
+    <Compile Include="downloads\XlsxWriter\examples\vba_extract.py" />
+    <Compile Include="downloads\XlsxWriter\examples\worksheet_protection.py" />
+    <Compile Include="downloads\XlsxWriter\setup.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\app.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\chart.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\chartsheet.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\chart_area.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\chart_bar.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\chart_column.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\chart_doughnut.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\chart_line.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\chart_pie.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\chart_radar.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\chart_scatter.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\chart_stock.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\comments.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\compatibility.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\compat_collections.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\contenttypes.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\core.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\custom.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\drawing.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\format.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\packager.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\relationships.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\shape.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\sharedstrings.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\styles.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\table.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\theme.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\utility.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\vml.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\workbook.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\worksheet.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\xmlwriter.py" />
+    <Compile Include="downloads\XlsxWriter\xlsxwriter\__init__.py" />
+    <Compile Include="environment setup.py" />
+    <Compile Include="support.py" />
+    <Compile Include="test1.py" />
+    <Compile Include="test_class.py" />
+    <Compile Include="test_class2.py" />
+    <Compile Include="test_class3.py" />
+    <Compile Include="test_exception.py" />
+    <Compile Include="test_function.py" />
+    <Compile Include="test_Jira.py" />
+    <Compile Include="test_module.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="downloads\beautifulsoup\AUTHORS.txt" />
+    <Content Include="downloads\beautifulsoup\beautifulsoup4.egg-info\dependency_links.txt" />
+    <Content Include="downloads\beautifulsoup\beautifulsoup4.egg-info\requires.txt" />
+    <Content Include="downloads\beautifulsoup\beautifulsoup4.egg-info\SOURCES.txt" />
+    <Content Include="downloads\beautifulsoup\beautifulsoup4.egg-info\top_level.txt" />
+    <Content Include="downloads\beautifulsoup\COPYING.txt" />
+    <Content Include="downloads\beautifulsoup\doc\source\6.1.jpg" />
+    <Content Include="downloads\beautifulsoup\NEWS.txt" />
+    <Content Include="downloads\beautifulsoup\README.txt" />
+    <Content Include="downloads\beautifulsoup\scripts\demonstration_markup.txt" />
+    <Content Include="downloads\beautifulsoup\TODO.txt" />
+    <Content Include="downloads\XlsxWriter\docs\readme.html" />
+    <Content Include="downloads\XlsxWriter\docs\_static\basic.css" />
+    <Content Include="downloads\XlsxWriter\docs\_static\default.css" />
+    <Content Include="downloads\XlsxWriter\docs\_static\hello01.png" />
+    <Content Include="downloads\XlsxWriter\docs\_static\logo.png" />
+    <Content Include="downloads\XlsxWriter\docs\_static\pygments.css" />
+    <Content Include="downloads\XlsxWriter\examples\autofilter_data.txt" />
+    <Content Include="downloads\XlsxWriter\examples\unicode_polish_utf8.txt" />
+    <Content Include="downloads\XlsxWriter\examples\unicode_shift_jis.txt" />
+    <Content Include="downloads\XlsxWriter\LICENSE.txt" />
+    <Content Include="downloads\XlsxWriter\XlsxWriter.egg-info\dependency_links.txt" />
+    <Content Include="downloads\XlsxWriter\XlsxWriter.egg-info\SOURCES.txt" />
+    <Content Include="downloads\XlsxWriter\XlsxWriter.egg-info\top_level.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bnUtils" />
+    <Folder Include="downloads\" />
+    <Folder Include="downloads\beautifulsoup" />
+    <Folder Include="downloads\beautifulsoup\beautifulsoup4.egg-info" />
+    <Folder Include="downloads\beautifulsoup\bs4" />
+    <Folder Include="downloads\beautifulsoup\bs4\builder" />
+    <Folder Include="downloads\beautifulsoup\bs4\tests" />
+    <Folder Include="downloads\beautifulsoup\build\" />
+    <Folder Include="downloads\beautifulsoup\build\lib\" />
+    <Folder Include="downloads\beautifulsoup\build\lib\bs4" />
+    <Folder Include="downloads\beautifulsoup\build\lib\bs4\builder" />
+    <Folder Include="downloads\beautifulsoup\build\lib\bs4\tests" />
+    <Folder Include="downloads\beautifulsoup\doc.zh\" />
+    <Folder Include="downloads\beautifulsoup\doc.zh\source" />
+    <Folder Include="downloads\beautifulsoup\doc\" />
+    <Folder Include="downloads\beautifulsoup\doc\source" />
+    <Folder Include="downloads\beautifulsoup\scripts" />
+    <Folder Include="downloads\XlsxWriter" />
+    <Folder Include="downloads\XlsxWriter\build\" />
+    <Folder Include="downloads\XlsxWriter\build\lib\" />
+    <Folder Include="downloads\XlsxWriter\build\lib\xlsxwriter" />
+    <Folder Include="downloads\XlsxWriter\build\scripts-3.5" />
+    <Folder Include="downloads\XlsxWriter\docs" />
+    <Folder Include="downloads\XlsxWriter\docs\_static" />
+    <Folder Include="downloads\XlsxWriter\examples" />
+    <Folder Include="downloads\XlsxWriter\xlsxwriter" />
+    <Folder Include="downloads\XlsxWriter\XlsxWriter.egg-info" />
+  </ItemGroup>
+  <Import Project="$(PtvsTargetsFile)" Condition="Exists($(PtvsTargetsFile))" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" Condition="!Exists($(PtvsTargetsFile))" />
+</Project>
